@@ -9,7 +9,7 @@ Are you tired of hardcoding new consumable items into your server? Well me too! 
 - Easy to add your custom framework support or change things for an existing one
 
 # My other work
-- [ren-playerstats]([https://github.com/Rencikas/ren-grandma](https://github.com/Rencikas/ren-playerstats))
+- [ren-playerstats](https://github.com/Rencikas/ren-playerstats))
 - [ren-businesses](https://github.com/Rencikas/ren-businesses)
 - [ren-laundering](https://github.com/Rencikas/ren-laundering)
 - [ren-grandma](https://github.com/Rencikas/ren-grandma)
