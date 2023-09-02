@@ -1,4 +1,4 @@
-# ren-consumables
+# ren-consumables   W.I.P
 
 # Description 
 Are you tired of hardcoding new consumable items into your server? Well me too! Introducing ren-consumables, with few config lines you can add new consumable items to your server within of few minutes.
